@@ -1,0 +1,14 @@
+D:\T\Info Security\Labs\laba3\laba3z1\bin\Debug\netcoreapp3.1\laba3z1.exe
+D:\T\Info Security\Labs\laba3\laba3z1\bin\Debug\netcoreapp3.1\laba3z1.deps.json
+D:\T\Info Security\Labs\laba3\laba3z1\bin\Debug\netcoreapp3.1\laba3z1.runtimeconfig.json
+D:\T\Info Security\Labs\laba3\laba3z1\bin\Debug\netcoreapp3.1\laba3z1.runtimeconfig.dev.json
+D:\T\Info Security\Labs\laba3\laba3z1\bin\Debug\netcoreapp3.1\laba3z1.dll
+D:\T\Info Security\Labs\laba3\laba3z1\bin\Debug\netcoreapp3.1\laba3z1.pdb
+D:\T\Info Security\Labs\laba3\laba3z1\obj\Debug\netcoreapp3.1\laba3z1.csproj.AssemblyReference.cache
+D:\T\Info Security\Labs\laba3\laba3z1\obj\Debug\netcoreapp3.1\laba3z1.GeneratedMSBuildEditorConfig.editorconfig
+D:\T\Info Security\Labs\laba3\laba3z1\obj\Debug\netcoreapp3.1\laba3z1.AssemblyInfoInputs.cache
+D:\T\Info Security\Labs\laba3\laba3z1\obj\Debug\netcoreapp3.1\laba3z1.AssemblyInfo.cs
+D:\T\Info Security\Labs\laba3\laba3z1\obj\Debug\netcoreapp3.1\laba3z1.csproj.CoreCompileInputs.cache
+D:\T\Info Security\Labs\laba3\laba3z1\obj\Debug\netcoreapp3.1\laba3z1.dll
+D:\T\Info Security\Labs\laba3\laba3z1\obj\Debug\netcoreapp3.1\laba3z1.pdb
+D:\T\Info Security\Labs\laba3\laba3z1\obj\Debug\netcoreapp3.1\laba3z1.genruntimeconfig.cache
