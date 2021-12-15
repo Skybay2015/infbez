@@ -1,0 +1,14 @@
+D:\T\Info Security\Labs\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.exe
+D:\T\Info Security\Labs\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.deps.json
+D:\T\Info Security\Labs\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.runtimeconfig.json
+D:\T\Info Security\Labs\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.runtimeconfig.dev.json
+D:\T\Info Security\Labs\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.dll
+D:\T\Info Security\Labs\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.pdb
+D:\T\Info Security\Labs\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.csproj.AssemblyReference.cache
+D:\T\Info Security\Labs\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.GeneratedMSBuildEditorConfig.editorconfig
+D:\T\Info Security\Labs\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.AssemblyInfoInputs.cache
+D:\T\Info Security\Labs\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.AssemblyInfo.cs
+D:\T\Info Security\Labs\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.csproj.CoreCompileInputs.cache
+D:\T\Info Security\Labs\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.dll
+D:\T\Info Security\Labs\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.pdb
+D:\T\Info Security\Labs\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.genruntimeconfig.cache
